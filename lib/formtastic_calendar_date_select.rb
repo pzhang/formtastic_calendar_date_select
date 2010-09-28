@@ -1,6 +1,6 @@
 module DavidOshiro
 	module Formtastic
-		module CalendarDateSelect
+		module CalendarDateSelectInput
 			protected
 			
 			def calendar_input(method, options = {})
